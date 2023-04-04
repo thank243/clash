@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Dreamacro/clash v1.12.0
-	github.com/docker/docker v20.10.23+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.1
